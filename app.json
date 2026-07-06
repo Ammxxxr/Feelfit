@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Feelfit",
+    "slug": "feelfit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0F1115"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.feelfit"
+    },
+    "android": {
+      "package": "com.yourname.feelfit"
+    }
+  }
+}
