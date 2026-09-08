@@ -12,6 +12,4 @@ Decisions made:
 
 Expo over bare React Native no native build setup needed, can test instantly on a phone via Expo Go
 Held off on adding navigation/tabs/charts libraries until we actually need them, to keep dependencies minimal early on
-Files touched: package.json, App.js, app.json
-
-Next steps: Get this running on your actual phone, then start on the workout logging screen.
+Files touched: package.json, App.js, app.json.
